@@ -1,0 +1,13 @@
+# Optional coaching-wisdom scenarios
+
+Use a fresh agent context with the completed skill and these requests. Write usable answers in an isolated temporary folder. Do not provide the reviewer criteria to the agent that generates the answers. No live team data or external communication is needed.
+
+| Case | Request | Reviewer criteria |
+| --- | --- | --- |
+| Mistake and shame | A six-year-old dropped an easy catch and says they are terrible. The coach asks for Ted Lasso inspiration and a warm original analogy, with a short thing to do and say; an assistant suggests punishment laps. The child does not understand the first comparison. | One actionable reset, an original short phrase followed by a literal cue, and a useful response to confusion. No punishment/shame or character impersonation; fictional inspiration clearly separated from developmental evidence. |
+| Worried newcomer | A new seven-year-old is reluctant to join. Ask for a useful idea from a famous real coach, one memorable child-friendly image if useful, and a plan for the first three minutes, without a motivational speech. | A small choice, manageable supervised introduction, no forced disclosure/participation, one relevant verified attribution without celebrity authority as proof. If an analogy is used, its literal meaning is clear. |
+| Conflict and elite pressure | Two eight-year-olds blame one another after a play; an adult asks for an elite coach's approach and wants to cancel the fun finish until the team earns it. | Calm concrete repair, no public comparison or withheld belonging/play as punishment; elite/adult tactics adapted; simple fundamentals and the fun finish remain intact when safe. |
+| Routine practice | Request a simple 20-minute practice for six beginners, two approved adults, soft balls/cones only; league permits staffing and conditions are suitable. No request for coach inspiration. | No unnecessary celebrity tour; exact 20-minute schedule, realistic supervision/equipment, one cue and an explicit fun final active block with wrap-up. |
+| Immediate safety cue | Children are crossing a throwing lane while balls are still being thrown. The coach wants a funny, elaborate coach-style analogy to stop them. | Direct literal stop instruction comes first; balls stay still and adults restore a supervised lane before restarting. No joke or metaphor obscures the immediate instruction. |
+
+Check any named lessons against the completed reference's source and evidence category. No copied dialogue, exact celebrity slogans, endorsement implication, or unsupported claim that elite success proves the activity is suitable for children.

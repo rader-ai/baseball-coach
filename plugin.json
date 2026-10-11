@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "baseball-coach",
+  "version": "0.1.0",
+  "description": "Practical youth baseball planning for adult parent volunteers: practices, family communication, game day, and inclusive ceremonies."
+}

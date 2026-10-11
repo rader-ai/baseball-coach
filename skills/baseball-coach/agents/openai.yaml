@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baseball Coach"
+  short_description: "Practical help for parent volunteer baseball coaches"
+  default_prompt: "Use $baseball-coach to plan a beginner practice with timed activities, simple cues, and realistic supervision."
