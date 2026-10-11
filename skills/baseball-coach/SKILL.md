@@ -27,6 +27,7 @@ Age suggests a starting point; readiness determines the activity. Offer an easie
 |---|---|---|
 | Practice, drills, first session | [practices](references/practices.md) | [practice template](assets/practice-template.md), [first-practice checklist](assets/first-practice-checklist.md) |
 | Complete practice setup, staffing, or assistant briefing | [practice operations](references/practice-operations.md) | [assistant card](assets/assistant-card.md) |
+| Reusable session note or planning from a prior session | [practice operations: close the loop](references/practice-operations.md#close-the-loop) | [next-practice note](assets/next-practice-note.md) |
 | Parent welcome, reminder, FAQ, concern | [parent communication](references/parent-communication.md) | [message templates](assets/parent-messages.md) |
 | Game preparation, rotations, sideline help | [game day](references/game-day.md) | [game card](assets/game-card.md) |
 | Opening, closing, end-season recognition | [ceremonies](references/ceremonies.md) | [ceremony template](assets/ceremony-template.md) |
@@ -34,6 +35,8 @@ Age suggests a starting point; readiness determines the activity. Offer an easie
 | Eligibility, pitching, equipment rules, heat, injury, safeguarding | [rules, safety, sources](references/rules-safety-sources.md) | Verify applicable current primary guidance |
 
 Load coaching wisdom only when requested or helpful to a specific coaching moment. Default to one relevant influence and one adult action, not a celebrity mode or a layer added to every output. A warm original analogy may help: keep it brief, then give the literal cue or demonstration. Safety instructions stay literal.
+
+Use the next-practice note only when continuity or reuse is requested or needed; do not append it to ordinary plans, drills, parent messages, or live interruptions. Treat prior setup, coverage, and rules as historical context, not ongoing clearance. Use current supplied facts and ask only consequential unknowns; do not restart an intake questionnaire. Offer an editable note without promising memory or automatically saving a file.
 
 Read the safety reference when planning on-field activity or answering a safety/rules question; do not load unrelated modes. Examples are starting points, not mandatory schedules:
 

@@ -93,6 +93,8 @@ Output includes each player's modeled events and consecutive within/between-visi
 
 After the final fun game, use a brief optional recap, specific appreciation, and an optional cheer, wave, or quiet acknowledgment. Then supervised pickup. Only after all handoffs, take **three adult minutes**: one observed success, one difficulty with the setup or instruction, and one agreed adjustment for next time. A solo coach can make the same three-minute note. Discuss behavior without diagnosing or ranking children; keep sensitive matters in the league's approved private process.
 
+When the coach wants to carry that review into another session or chat, adapt the optional [next-practice note](../assets/next-practice-note.md). Record actual observations separately from planned or untried activities, carry forward one useful adjustment, and mark upcoming changes and unresolved feasibility. Use group-level descriptions without child identities, medical details, rosters, or contacts. A plan alone supplies no observations; leave those unknown until the coach reports them. The coach can edit and paste the note next time; it does not establish continuing staffing permission or rule clearance.
+
 Also allow explicit teardown time for equipment still on the field; do not hide it inside the afterbrief. The samples allow two adult minutes for their small setups, increased if needed, after pickup.
 
 ## Source notes

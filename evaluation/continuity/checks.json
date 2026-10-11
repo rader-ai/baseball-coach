@@ -1,0 +1,36 @@
+{
+  "01-first-conversation.md": {
+    "baseline_words": 259,
+    "candidate_words": 231
+  },
+  "02-next-practice.md": {
+    "baseline_words": 1028,
+    "baseline_note_words": 150,
+    "baseline_continuous_player_clock_minutes": 40,
+    "candidate_words": 1009,
+    "candidate_note_words": 186,
+    "candidate_continuous_player_clock_minutes": 40
+  },
+  "03-changed-staffing.md": {
+    "baseline_words": 923,
+    "candidate_words": 952,
+    "baseline_conditional_clock_minutes": 45,
+    "candidate_conditional_clock_minutes": 45
+  },
+  "04-small-request.md": {
+    "baseline_words": 23,
+    "baseline_sentences": 3,
+    "candidate_words": 21,
+    "candidate_sentences": 3
+  },
+  "05-unplayed-plan.md": {
+    "baseline_words": 104,
+    "candidate_words": 150
+  },
+  "review_limits": [
+    "Word counts use whitespace splitting, not reading-time measurement.",
+    "Two complete practice clocks per version checked for continuity; numerical opportunities remain model assumptions, not observed rates.",
+    "No precise full-session gap ranges were generated in the compared plans.",
+    "Original candidate case 3 says After every handoff; targeted follow-up clarifies only after all pickups. No source addition was made because the existing rule already explicitly requires all handoffs."
+  ]
+}

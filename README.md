@@ -6,7 +6,7 @@ Bring the players, adults, time, space, and equipment you actually have. Basebal
 
 Start with tee-ball and coach-pitch, usually around ages 5–8. Adapt upward by readiness and experience, with a fresh plan and current division rules for older groups. Beginners need somewhere comfortable to start, not a performance standard based on age.
 
-**First try:** open this repository folder in an agent that can read local files, paste the first prompt under “Try it locally,” and replace the players, adults, minutes, space, and gear with yours. Ask for the short field card first; preparation notes and detachable assistant cards follow separately.
+**First try:** open this repository folder in an agent that can read local files and paste the first prompt under “Try it locally.” Start with what you know, even if that is only “I volunteered to coach tee-ball.” The skill asks about missing details that affect safety or feasibility and can draft with stated assumptions for the rest.
 
 ## Simple basics. Supportive coaching. A fun finish.
 
@@ -40,11 +40,19 @@ Other ready-to-edit starting points:
 
 Ask a compatible agent to read [the skill](skills/baseball-coach/SKILL.md), then try:
 
+> Use the Baseball Coach skill at `skills/baseball-coach/SKILL.md`. I volunteered to coach tee-ball and don't have all the details yet. Help me get started.
+
+When you know the setup, ask for a complete plan:
+
 > Use the Baseball Coach skill at `skills/baseball-coach/SKILL.md`. Plan 45 minutes for eight beginners and two approved adults, with one tee, suitable protective equipment, and limited field space. Give me a short field card first, then preparation notes and detachable assistant cards. Check whether each child gets enough chances for the goal.
 
 > Help my assistant support a nervous newcomer. Give us one demonstration, one cue, and an easier choice without pressuring the child.
 
 > Draft a parent welcome and FAQ with placeholders, then an optional 15-minute end-season ceremony where children can choose quiet recognition.
+
+For a return visit, the optional [next-practice note](skills/baseball-coach/assets/next-practice-note.md) gives you one editable place for the last setup, what actually happened, and one adjustment to try. After pickup and the adult afterbrief, copy it, add upcoming changes or unknowns, and keep it wherever you choose. Paste it into a new chat when you want help with the next session; no remembered conversation or automatic file saving is assumed.
+
+> Use the Baseball Coach skill at `skills/baseball-coach/SKILL.md`. Here is my next-practice note: [paste the filled note]. Help me plan our next session using the updates in it. Ask only about unknowns that change safety or feasibility.
 
 The skill needs no packages, credentials, roster, or account connection. Current rules and weather require authoritative sources or material the adult provides.
 

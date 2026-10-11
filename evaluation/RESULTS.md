@@ -7,7 +7,7 @@ The specified GitHub repository was obtained as a fresh shallow checkout after t
 ## Structural and content review
 
 - The available skill-creator `quick_validate.py` passed. Codex UI metadata parsed as YAML; its short-description length and explicit `$baseball-coach` prompt were checked.
-- The canonical skill contains 25 text files: a 69-line entrypoint, UI metadata, nine references, six editable assets, seven examples, and one optional standard-library timeline helper. Portable relative links are checked by the package validator.
+- The canonical skill contains 26 text files: a 72-line entrypoint, UI metadata, nine references, seven editable assets, seven examples, and one optional standard-library timeline helper. Portable relative links are checked by the package validator.
 - Four sample schedules have continuous, nonoverlapping elapsed-time rows and correct totals: 32, 45, 60, and 15 minutes. This is arithmetic evidence, not a guarantee that a real group will move at that pace.
 - Templates were manually reviewed for editable logistics, adult assignments, local-rule uncertainty, and actionable outputs. Intentional bracket fields are fill-in prompts, not unfinished implementation scaffolding.
 - New distributable text was reviewed for fictional labels/placeholders, private data, unsupported affiliation, claims of guaranteed improvement, and copied curricula. No real roster, child contact, photo, credential, or private league record is included. Automated marker checks are narrow and do not guarantee anonymity.
@@ -88,6 +88,12 @@ A later independent practical review of committed source found two moderate weak
 The revision puts a short usable field card first, separates assistant/preparation notes, and makes participation adequacy a design decision. It requires conservative full-cycle estimates, actual lane/coverage checks, and a fully budgeted final game. The three worked practice cards are 410/457/460 words including headings, with preparation detail below. Fourteen existing parent, game, ceremony, wisdom, teaching, technical and safety resources remain byte-identical to the committed baseline.
 
 Fresh generation, its retained cadence failure, the narrow correction and targeted follow-up are documented in [field-use review](FIELD-USE-REVIEW.md). The report provides original answers, prompts, word counts, timing and participation math, plus snapshot hashes. It distinguishes within-visit turn intervals from gaps across the complete rotation. These are planning estimates rather than observed field rates; a short lead card is not a verified single printed page.
+
+## Returning to the next practice
+
+The optional [next-practice note](../skills/baseball-coach/assets/next-practice-note.md) connects the existing adult afterbrief to a later conversation. It separates actual observations from an unplayed plan, records one adjustment, and distinguishes historical setup from current changes and unresolved feasibility. The README now offers both an incomplete first-use request and a return-use prompt. No persistent profile, memory promise, automatic save, new planning system, or mandatory note was added.
+
+[Product critique and comparison](CONTINUITY-REVIEW.md) record five baseline and five candidate answers from separate fresh Astra contexts, plus one targeted follow-up. The baseline already handled all five core cases well. The justified gain is an editable, discoverable artifact; the tests do not establish a correctness or preparation-time improvement. Candidate notes were longer. A retained wording ambiguity about pickup was explicitly clarified in the targeted follow-up; the source's existing all-handoffs requirement did not change. Source hashes verify that all seven examples and the other core assets/references/scripts remain unchanged apart from the two routing/operations edits and the new note.
 
 ## Limits and release decisions
 
