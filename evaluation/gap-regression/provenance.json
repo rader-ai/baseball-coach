@@ -1,0 +1,9 @@
+{
+  "source_commit": "4765dd5739088a6481b48a8cf1bb522ae02e6579",
+  "method": "Separate evaluator generated and audited four new first drafts in one session; not blinded, human field, or live-host validation. All four read; only the arithmetic failure is reproduced for this narrow regression.",
+  "original_output_sha256": "d9d1e4c67060c593a577f971c7ceb331a40f789c7ba1a45b2cfde771526508eb",
+  "original_output_preserved_byte_for_byte": true,
+  "prompt": "V3 extracted verbatim; other prompts omitted.",
+  "reviewer_trace": "v3_trace object preserved in JSON form; original reviewer files unchanged.",
+  "model": "One-minute opening demo; nine consecutive working minutes; remaining overhead at visit end;35-second complete cycles;next-visit first child rotated by one; one permitted schedule, not the only schedule or measured behavior."
+}

@@ -5,6 +5,14 @@ plugin.json
 release-files.txt
 scripts/check_package.py
 scripts/test_package.py
+scripts/test_opportunity_trace.py
+evaluation/GAP-REGRESSION.md
+evaluation/gap-regression/original-v3.md
+evaluation/gap-regression/original-prompt.md
+evaluation/gap-regression/reviewer-trace.json
+evaluation/gap-regression/v3-model.json
+evaluation/gap-regression/v3-derived.json
+evaluation/gap-regression/provenance.json
 evaluation/RESULTS.md
 evaluation/SCENARIOS.md
 evaluation/WISDOM-SCENARIOS.md
@@ -26,6 +34,7 @@ evaluation/wisdom/04-routine-practice.md
 evaluation/wisdom/05-immediate-safety.md
 evaluation/wisdom/selfreport.md
 skills/baseball-coach/SKILL.md
+skills/baseball-coach/scripts/trace_opportunities.py
 skills/baseball-coach/agents/openai.yaml
 skills/baseball-coach/assets/ceremony-template.md
 skills/baseball-coach/assets/first-practice-checklist.md

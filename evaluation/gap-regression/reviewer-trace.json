@@ -1,0 +1,94 @@
+{
+  "assumptions": "One-minute opening demo, then nine working minutes at the stated conservative 35-second full cycle; remaining collection/rest/margin/closure reserved at block end. Next visit rotates starting order by one child, as requested by the assistant card. No missed round or extra delay. A permitted conservative allocation, not measured behavior or a unique schedule. Turn starts used consistently.",
+  "rows": [
+    {
+      "child_label": 1,
+      "first_visit_turn_starts_min": [
+        7.0,
+        9.333333333333334,
+        11.666666666666668,
+        14.0
+      ],
+      "adjacent_next_visit_turn_starts_min": [
+        24.75,
+        27.083333333333332,
+        29.416666666666668
+      ],
+      "nonadjacent_next_visit_turn_starts_min": [
+        40.75,
+        43.083333333333336,
+        45.416666666666664
+      ],
+      "adjacent_gap_min": 10.75,
+      "nonadjacent_gap_min": 26.75
+    },
+    {
+      "child_label": 2,
+      "first_visit_turn_starts_min": [
+        7.583333333333333,
+        9.916666666666666,
+        12.25,
+        14.583333333333332
+      ],
+      "adjacent_next_visit_turn_starts_min": [
+        23.0,
+        25.333333333333332,
+        27.666666666666668,
+        30.0
+      ],
+      "nonadjacent_next_visit_turn_starts_min": [
+        39.0,
+        41.333333333333336,
+        43.666666666666664,
+        46.0
+      ],
+      "adjacent_gap_min": 8.416666666666668,
+      "nonadjacent_gap_min": 24.416666666666668
+    },
+    {
+      "child_label": 3,
+      "first_visit_turn_starts_min": [
+        8.166666666666666,
+        10.5,
+        12.833333333333332,
+        15.166666666666666
+      ],
+      "adjacent_next_visit_turn_starts_min": [
+        23.583333333333332,
+        25.916666666666668,
+        28.25,
+        30.583333333333332
+      ],
+      "nonadjacent_next_visit_turn_starts_min": [
+        39.583333333333336,
+        41.916666666666664,
+        44.25,
+        46.583333333333336
+      ],
+      "adjacent_gap_min": 8.416666666666666,
+      "nonadjacent_gap_min": 24.41666666666667
+    },
+    {
+      "child_label": 4,
+      "first_visit_turn_starts_min": [
+        8.75,
+        11.083333333333332,
+        13.416666666666668
+      ],
+      "adjacent_next_visit_turn_starts_min": [
+        24.166666666666668,
+        26.5,
+        28.833333333333332,
+        31.166666666666664
+      ],
+      "nonadjacent_next_visit_turn_starts_min": [
+        40.166666666666664,
+        42.5,
+        44.833333333333336,
+        47.166666666666664
+      ],
+      "adjacent_gap_min": 10.75,
+      "nonadjacent_gap_min": 26.749999999999996
+    }
+  ]
+}

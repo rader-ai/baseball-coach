@@ -48,6 +48,8 @@ Ask a compatible agent to read [the skill](skills/baseball-coach/SKILL.md), then
 
 The skill needs no packages, credentials, roster, or account connection. Current rules and weather require authoritative sources or material the adult provides.
 
+When a plan includes numerical gaps between a child's attempts, check an explicit timeline first. An optional standard-library Python [calculator and instructions](skills/baseball-coach/references/practice-operations.md#optional-explicit-timeline-calculation) can trace supplied working windows and turn order; a checked manual timeline also works. If those details are unknown, use qualitative wording. The calculator verifies arithmetic, not safety or whether a plan gives enough practice.
+
 For optional project discovery, manually copy the **whole** `skills/baseball-coach` folder to `.agents/skills/baseball-coach` for Codex or `.claude/skills/baseball-coach` for Claude Code, without overwriting an existing skill. These are project-folder conventions, not verified installations of this candidate. See [Codex documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Code documentation](https://code.claude.com/docs/en/skills). Where discovered, invoke `$baseball-coach` in Codex or `/baseball-coach` in Claude Code.
 
 ## Review, package, and share thoughtfully
@@ -59,6 +61,7 @@ From the repository root, using Python 3:
 ```sh
 python3 scripts/check_package.py
 python3 scripts/test_package.py
+python3 scripts/test_opportunity_trace.py
 python3 scripts/check_package.py --archive dist/baseball-coach-0.1.0-review.zip
 ```
 

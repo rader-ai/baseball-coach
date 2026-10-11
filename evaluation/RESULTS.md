@@ -7,7 +7,7 @@ The specified GitHub repository was obtained as a fresh shallow checkout after t
 ## Structural and content review
 
 - The available skill-creator `quick_validate.py` passed. Codex UI metadata parsed as YAML; its short-description length and explicit `$baseball-coach` prompt were checked.
-- The canonical skill contains 24 text files: a 68-line entrypoint, UI metadata, nine references, six editable assets, and seven examples. Portable relative links are checked by the package validator.
+- The canonical skill contains 25 text files: a 69-line entrypoint, UI metadata, nine references, six editable assets, seven examples, and one optional standard-library timeline helper. Portable relative links are checked by the package validator.
 - Four sample schedules have continuous, nonoverlapping elapsed-time rows and correct totals: 32, 45, 60, and 15 minutes. This is arithmetic evidence, not a guarantee that a real group will move at that pace.
 - Templates were manually reviewed for editable logistics, adult assignments, local-rule uncertainty, and actionable outputs. Intentional bracket fields are fill-in prompts, not unfinished implementation scaffolding.
 - New distributable text was reviewed for fictional labels/placeholders, private data, unsupported affiliation, claims of guaranteed improvement, and copied curricula. No real roster, child contact, photo, credential, or private league record is included. Automated marker checks are narrow and do not guarantee anonymity.
@@ -90,6 +90,8 @@ The revision puts a short usable field card first, separates assistant/preparati
 Fresh generation, its retained cadence failure, the narrow correction and targeted follow-up are documented in [field-use review](FIELD-USE-REVIEW.md). The report provides original answers, prompts, word counts, timing and participation math, plus snapshot hashes. It distinguishes within-visit turn intervals from gaps across the complete rotation. These are planning estimates rather than observed field rates; a short lead card is not a verified single printed page.
 
 ## Limits and release decisions
+
+The subsequent [full-rotation gap regression](GAP-REGRESSION.md) preserves a separate reviewer's original failed answer and an explicit counterexample. The correction requires checked child timestamps for numeric ranges, or qualitative uncertainty when windows/order are unknown. Seven independent deterministic test methods cover the helper, the twelve-player counterexample, and a one-lane fallback. This adds arithmetic evidence rather than another full scenario-generation cycle; historical passes above do not imply that every earlier timing statement was correct.
 
 These are agent scenario tests and a local content review. No field trial, coach credential review, child participation study, calibrated measurement, or medical/legal review was performed. Temporary isolated host probes did not establish skill loading; see [host verification limits](HOST-VALIDATION.md). No global installation or live host-model inference was performed. Current rules and local conditions remain the adult's verification responsibility; the linked safety sources are not an eligibility engine.
 

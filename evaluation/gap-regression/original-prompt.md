@@ -1,0 +1,3 @@
+## V3 — More players, mixed experience
+
+I have twelve eight- and nine-year-olds for a 60-minute practice and two approved assistants. Four have played for a couple of seasons, eight are newer, and a few lose interest in long lines. We have one tee, one bat, fitted required helmets, twelve soft balls, gloves, cones and flat bases. There is a safe hitting area and a separate large grass area. We can arrive fifteen minutes early, and the league has approved coverage and the normal care arrangements. I want time on making contact and stopping a ground ball before throwing to a target. Give the experienced players something worthwhile too.

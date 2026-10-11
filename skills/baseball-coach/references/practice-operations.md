@@ -49,7 +49,7 @@ For a late assistant, do not open an unstaffed station. Use a preplanned, permit
 
 Subtract demos, water, equipment changes, stopped collection, transitions, and a reasonable interruption margin. Estimate a conservative **complete cycle**: child ready → action → safe return/retrieval → reset/change. Divide usable seconds by cycle seconds and group size for approximate attempts per child. For one continuously operating serial lane, group size × cycle estimates time between the same child's turn starts **within that visit**, only if repeat turns fit; additional stoppages increase it. Use the slower reasonable cycle, not best-case pace. Show a short result, not a spreadsheet, and decide: do these opportunities support the actual goal, readiness, and requested activity level? There is no universal minimum, but a few tries spread across most of an hour must not be presented as ample repeated practice.
 
-Audit the **full rotation** before reporting overall attempt spacing: trace a representative child from each different assignment through visits, swaps, breaks, and other activities. Distinguish idle waiting from supervised ball-free or other-skill activity; these are different experiences, but neither counts as an attempt at the target skill. Estimate the likely and longest reasonable gaps between target-skill attempts using actual clock positions, including a missed round or alternation where scheduled. Account for turn order and slower cycles; report a range or uncertainty when exact positions are unknown. Recheck each fallback separately. Keep the published summary short, but don't present the within-lane cadence as the whole-session cadence. A short visit that gives most children one attempt has no recurring in-visit interval for those children; the next attempt occurs on a later visit, after its intervening activities and transitions.
+Audit the **full rotation** before reporting overall attempt spacing: trace each distinct assignment through visits, swaps, breaks, and other activities, including changed turn orders. Distinguish idle waiting from supervised ball-free or other-skill activity; neither counts as a target-skill attempt. For numerical ranges, state exact working windows, whole-cycle durations, and per-visit order; check that every counted cycle finishes inside its window. Include small last/next timestamp evidence covering distinct assignments and the children producing the order extremes. Recheck each fallback separately. If windows/order are unknown, describe the gap qualitatively instead of guessing a precise range. These calculations describe the stated model, not observed rates or global bounds over other possible schedules. Keep this evidence in preparation notes; don't present within-lane cadence as whole-session spacing. A child with one attempt in a visit has no recurring in-visit interval there.
 
 If not, change the design before delivering it:
 
@@ -60,6 +60,34 @@ If not, change the design before delivering it:
 Example planning comparison: eight usable minutes, a 40-second cycle, and six children yield about two tries each with four minutes between the same child's turn starts. If repeated fielding and an easier retry are the goal, redesign. Two genuinely separate adult-led lanes of three with a simpler 25-second full cycle would permit about six tries each and 75 seconds between a child's turn starts before extra interruptions; both the geometry and cycle assumption need checking. If those lanes cannot fit, use one simpler route and allocate another block, or state the reduced goal. No estimate is a quota or a reason to hurry.
 
 For a final serial game, budget every child's chosen turn at the slower cycle **plus** demo, closure, and margin. If this doesn't fit, change the game to simultaneous ball-free play in safe personal spaces or reduce its mechanics. Don't plan to leave the last children out and call it a complete team round. After briefing, observe the first cycle; if it is slower than planned, simplify early.
+
+### Optional explicit timeline calculation
+
+Use [trace_opportunities.py](../scripts/trace_opportunities.py) when publishing numerical gaps from a proposed model. It needs only standard-library Python 3; no installation, account, or real roster. Otherwise check an explicit timeline manually or omit precise gap ranges. Run from the skill folder:
+
+```sh
+python3 scripts/trace_opportunities.py /path/to/model.json
+```
+
+Use `-` instead of a file path for JSON on stdin. Model **one target activity**, with synthetic player labels and integer elapsed seconds:
+
+```json
+{
+  "players": ["P1", "P2", "P3"],
+  "visits": [
+    {"id": "first", "start": 0, "end": 120,
+     "windows": [{"start": 10, "end": 110}],
+     "cycle_seconds": 30, "order": ["P1", "P2"]},
+    {"id": "return", "start": 240, "end": 360,
+     "windows": [{"start": 250, "end": 350}],
+     "cycle_seconds": 30, "order": ["P2", "P1"]}
+  ]
+}
+```
+
+The declared order identifies visit participants; unknown/duplicate labels and same-child overlapping visits are rejected. Different children's simultaneous visits are allowed mathematically, not endorsed as safe. Windows must be explicit, ordered, nonoverlapping, and inside visits. The model adds no overhead: leave its time outside working windows yourself. Only complete cycles count; unused window tails are discarded. Turn order continues across windows in one visit and resets to the next visit's supplied order. Use a separate model for a different target skill or scenario.
+
+Output includes each player's modeled events and consecutive within/between-visit gaps, with previous/next timestamps. Zero-attempt players remain visible. Start-to-start and end-to-start gaps are distinguished; the latter is not necessarily idle time. In this example P1's cross-visit evidence is 70→280 seconds (210-second start gap); P2's is 40→250 (210 seconds); P3 has no attempts. Check all modeled players before selecting evidence for a range. The helper neither chooses windows nor supplies coaching, feasibility, safety, or success judgments; changed assumptions require a new calculation.
 
 ## Close the loop
 

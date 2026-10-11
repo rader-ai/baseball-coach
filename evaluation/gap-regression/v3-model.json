@@ -1,0 +1,126 @@
+{
+  "players": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "C1",
+    "C2",
+    "C3",
+    "C4"
+  ],
+  "visits": [
+    {
+      "id": "A-1",
+      "start": 1320,
+      "end": 2100,
+      "windows": [
+        {
+          "start": 1380,
+          "end": 1920
+        }
+      ],
+      "cycle_seconds": 35,
+      "order": [
+        "A1",
+        "A2",
+        "A3",
+        "A4"
+      ]
+    },
+    {
+      "id": "A-2",
+      "start": 2280,
+      "end": 3060,
+      "windows": [
+        {
+          "start": 2340,
+          "end": 2880
+        }
+      ],
+      "cycle_seconds": 35,
+      "order": [
+        "A2",
+        "A3",
+        "A4",
+        "A1"
+      ]
+    },
+    {
+      "id": "B-1",
+      "start": 360,
+      "end": 1140,
+      "windows": [
+        {
+          "start": 420,
+          "end": 960
+        }
+      ],
+      "cycle_seconds": 35,
+      "order": [
+        "B1",
+        "B2",
+        "B3",
+        "B4"
+      ]
+    },
+    {
+      "id": "B-2",
+      "start": 2280,
+      "end": 3060,
+      "windows": [
+        {
+          "start": 2340,
+          "end": 2880
+        }
+      ],
+      "cycle_seconds": 35,
+      "order": [
+        "B2",
+        "B3",
+        "B4",
+        "B1"
+      ]
+    },
+    {
+      "id": "C-1",
+      "start": 360,
+      "end": 1140,
+      "windows": [
+        {
+          "start": 420,
+          "end": 960
+        }
+      ],
+      "cycle_seconds": 35,
+      "order": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+      ]
+    },
+    {
+      "id": "C-2",
+      "start": 1320,
+      "end": 2100,
+      "windows": [
+        {
+          "start": 1380,
+          "end": 1920
+        }
+      ],
+      "cycle_seconds": 35,
+      "order": [
+        "C2",
+        "C3",
+        "C4",
+        "C1"
+      ]
+    }
+  ]
+}
