@@ -33,7 +33,7 @@ Any outreach to leagues or parent communities should be separately approved and 
 1. **Ownership and license:** choose an explicit license and commercial terms; review originality and any future contributed material. No third-party curricula or real team files belong in the archive.
 2. **Field usefulness:** an experienced youth coach should review activities and supervision; adult volunteers should try the plans under their league's requirements. Agent scenario tests are not field trials.
 3. **Current sources:** verify league rules for the target division and season and recheck dated safety references. Clarify who maintains those references.
-4. **Host test:** pick target hosts, validate their current schema, install only in an authorized test location, and test discovery plus complete outputs. No host installation has been performed here.
+4. **Host test:** pick target hosts, validate their current schema, install only in an authorized test location, and test discovery plus complete outputs. Temporary isolated probes did not establish skill loading; see [host verification limits](evaluation/HOST-VALIDATION.md). No global installation was performed.
 5. **Submission materials:** confirm publisher identity, support/privacy information, license, eligibility, and directory naming; then obtain separate authorization to publish. A local manifest or validator pass does not mean approval.
 
 Claude's current checklist requires a qualifying README and license for directory listing. This package's absent license is an explicit blocker, and a Claude wrapper remains future work. [Claude pre-submission checklist](https://claude.com/docs/plugins/pre-submission-checklist)

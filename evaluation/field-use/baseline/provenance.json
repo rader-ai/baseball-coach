@@ -1,0 +1,19 @@
+{
+  "snapshot_commit": "b725ffd92fc76c5e853bdecbf532ddddc7726ee4",
+  "review_type": "Separate assistant task: generation and audit in the same session; not blinded or human field testing",
+  "outputs": "Three original answers preserved byte-for-byte; prompt document preserves S1\u2013S3 and original preamble, omitting S4\u2013S6",
+  "files": {
+    "01-first-time-parent.md": {
+      "sha256": "281b4d8bd144a5b2508c6684886f15c52280fb0cc78b13322017e4f4b4dce835",
+      "words": 1348
+    },
+    "02-live-disruption.md": {
+      "sha256": "161982b0e62f8979e5d888de36b6a4ed03d36706f8638d2f7aba386180d8af17",
+      "words": 1228
+    },
+    "03-mixed-experience.md": {
+      "sha256": "63071118a306fd39ecb724fd8c20404c21585ad628f815f15cb4cdc1e4bc21b8",
+      "words": 1711
+    }
+  }
+}

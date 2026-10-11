@@ -6,7 +6,9 @@ Before families arrive — suggested 12 adult minutes outside the player clock:
 - [ ] Check current weather/field conditions and the league's modification/cancellation policy.
 - [ ] Confirm emergency plan, field access, required equipment, and approved pickup/restroom procedures.
 - [ ] Choose one or two skills and a timed plan that includes transitions and water.
+- [ ] Check conservative attempts per child and time between turns against the goal; redesign thin opportunities using verified lanes, a simpler route, or a different allocation of time.
 - [ ] Reserve a simple final fun game using those basics, then a brief positive wrap-up; safety stops override the schedule.
+- [ ] Ensure the final game fits everyone's turn plus margin, or use simultaneous ball-free play. Print the short field card and detachable assistant cards; keep preparation details separate.
 - [ ] First five minutes: head coach inspects/marks lanes; approved assistant checks gear, waiting area, and water/shade. Finish setup before accepting children.
 - [ ] Next four minutes: use [assistant cards](assistant-card.md) for a field walkthrough, purpose, one cue/demo, observed difficulty, adjusted retry, and stop/retrieval procedure. Have each helper teach it back.
 - [ ] Name one cue-giver per activity and head coach as transition/restart coordinator; anyone can call an immediate stop.

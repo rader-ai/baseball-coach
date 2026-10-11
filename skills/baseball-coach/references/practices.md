@@ -35,13 +35,17 @@ Keep each adjustment independent: change distance OR pace OR decision complexity
 
 ## Scheduling and adjustment
 
-Separate pre-arrival adult setup from the player clock. Include children's demonstrations, retrieval, encouragement, and all group swaps in player time. Choose duration from readiness, goals, staffing, conditions, and breaks; the sample lengths are not official or optimal age bands. The 32-minute session is an intentionally abbreviated option. Water is freely available; scheduled breaks are reminders, not restrictions. If a group is waiting too long, reduce repetition counts or choose a whole-group movement activity without bats/balls. Do not create an unsupervised station to increase repetitions.
+Deliver a compact field card before optional preparation details. Separate pre-arrival adult setup from the player clock. Include children's demonstrations, retrieval, encouragement, and all group swaps in player time. Choose duration from readiness, goals, staffing, conditions, and breaks; the sample lengths are not official or optimal age bands. The 32-minute session is an intentionally abbreviated option. Water is freely available; scheduled breaks are reminders, not restrictions.
+
+Use the [opportunity check](practice-operations.md): compare estimated attempts and waits with what the user wants children to practice. A schedule that adds up can still underserve its goal. If opportunities are thin, inspect feasible adult-led lanes, simplify the route, rebalance blocks, or narrow the goal. Reducing repetitions alone does not fix too much waiting. Keep actual ball attempts distinct from supervised shadow movements; neither faster feeds nor unsupervised stations are solutions.
 
 For weather, reserve an option to cut activity and extend shade/rest, subject to current policy and conditions. A shortened plan is not permission to practice when cancellation is required. If an adult leaves, stop first, recount children, secure equipment, and switch only to a permitted, feasible whole-group plan.
 
 ## Always finish active practice with a fun game
 
 Reserve a short final game in every plan. Give it a name, simple playable rules, adult roles, and an easier option. Reuse today's basic skill rather than teaching a complicated new contest. Everyone stays involved; no elimination, penalty laps, forced competition, or waiting alone. Keep the same bat/ball controls as in drills. A cheer or discussion does not replace this active game.
+
+Check that a serial game's slower turn cycle leaves time for every child plus instruction and margin. When it doesn't, prefer a simultaneous ball-free game in safe personal spaces; don't knowingly schedule only enough turns for the quickest children.
 
 For example, play **Baseball Statues**: with bats and balls secured, children stay in their own spaces while the adult calls “ready,” “freeze,” or “point to first.” Everyone makes the pose; let children suggest a silly safe statue. Demonstrate each call for beginners; seated pointing works too. One adult can lead while keeping the whole group in view.
 

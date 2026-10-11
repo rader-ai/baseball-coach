@@ -1,47 +1,42 @@
 # 45-minute two-adult tee-ball practice
 
-Original sample: eight beginners around ages 5–7; two approved adults; suitable field and current policy permit play. Goal: stop a roller and make tee contact. Confirm equipment and staffing requirements first.
+## Field card
 
-Equipment: tee, suitable bat, fitted batting helmets, soft practice balls, flat base markers, cones, water. Adults A and B keep four children each during stations. A controls batting; B controls rolling. Establish separated sectors so hit balls cannot reach B's group. If the field cannot provide this, run these activities sequentially as a whole group.
+**Eight beginners, two approved adults.** Goal: try tee contact and get repeated chances to stop a gentle roll. Confirm current conditions, required equipment, and league coverage/care arrangements.
 
-At batting, only the called child holds a bat. The other three wait in A's view outside swing/ball paths. No fielders are in the hitting sector. After two swings, park the bat; A stops all activity before retrieval. B rolls one ball to one ready child at a time; waiting children stay outside that lane. “Freeze” stops every activity.
+**Gear/places:** tee, suitable bat, fitted required helmets, soft practice balls, cones/flat markers, water. A supervises hitting; B supervises rolling, four children each. Verify that both sectors, waiting places, errant-ball paths, and walking routes cannot interfere. If separation fails, use the simpler option below.
 
-## Before players — 15 adult minutes outside the 45-minute program
+**Controls:** only the called hitter holds a bat; others wait in A's view outside full bat reach and ball paths. A stays outside the swing, parking the bat before approaching the tee. No child catcher or live fielder at hitting. B has one active ball, rolling to a ready child who rolls it back through the same clear lane. Both adults retain their groups during collection: FREEZE, secure equipment, close the lane, collect, count, reset. A directs changes; anyone can stop.
 
-Preparation and the post-pickup two-minute teardown/three-minute review below are planning allowances for a simple, familiar setup. Increase adult time when gear, the site, or assistant briefing needs more.
+| Time | Activity and adult assignment |
+|---|---|
+| 0–4 | Both: intake, places, FREEZE demonstration. |
+| 4–8 | Everyone marches/reaches and copies ready poses in personal spaces; seated option welcome. |
+| 8–10 | A shows tee contact; B shows roll/stop/return, 30 seconds each. Final minute places groups safely. |
+| 10–18 | A: two-swing tee turns, “Look at the ball.” B: roll/stop/return, “Body behind it.” Closer straight roll or comfortable tee setup first. Include changes, stopped retrieval, brief feedback, and final secure/count. |
+| 18–21 | Secure equipment, water, count, supervised group swap. |
+| 21–29 | Same adults, new groups; brief cue reminder, attempts, collection inside block. |
+| 29–32 | Water; secure all bats. Check that each former sector now supports one independent rolling lane. |
+| 32–39 | **More fielding:** A and B each roll to four children in their verified sector. Same short return-to-adult route. First 30 seconds show positions; last minute close/collect. No hitting remains. |
+| 39–42 | **Final fun game: Baseball Statues.** Equipment secured. A calls “ready,” “freeze,” or “point to first”; everyone poses together in personal spaces. B supports. Silly safe/seated poses welcome; no elimination. |
+| 42–45 | Optional recap, specific appreciation, optional cheer/wave, begin guardian handoff. |
 
-- **T−15 to T−8:** head coach A inspects and marks separated lanes/routes; approved assistant B checks equipment, helmet fit options, and waiting/water areas. No children are accepted yet.
-- **T−8 to T−3:** A explains goals and both adults walk each station. Each shows their one cue and easier retry, then teaches back the other's stop/retrieval process. Confirm each child's place, care/restroom coverage, and the fallback below. A calls transitions/restarts; either adult calls immediate stops. One adult speaks per station.
-- **T−3 to T0:** final conditions/coverage check and readiness for intake. Early children remain with guardians until accepted handoff. If setup is unfinished, keep coverage and reduce scope; do not leave children to finish it.
+Total: 45 minutes. Water is available throughout. Stop for pain/fatigue, distress, unsafe lanes, weather or lost coverage; use the agreed care procedure. If separate sectors are unavailable, narrow today to a rolling introduction: keep both adults with all eight for short roll/return turns at 10–18 and 21–29, then simultaneous ball-free fielding poses at 32–39. Defer tee contact openly; this is not equivalent practice. If an adult is absent, don't open stations: use only an expressly permitted, feasible solo/care arrangement or postpone. Pickup supervision continues past minute 45.
 
-## Player clock
+## Detachable assistant card — B
 
-| Time | Activity and adult assignment | Cue / adjustment |
-|---|---|---|
-| 0–4 | Both: welcome, boundaries, stop-signal demonstration | “Freeze and look.” |
-| 4–8 | A leads easy marching, side steps, and ready stance; B supports whole group | “Feet ready.” Walk / add a direction change |
-| 8–10 | A gives a 30-second tee demonstration, B a 30-second roll demonstration; final minute assigns groups and checks waiting places | No active bats/balls during movement |
-| 10–18 | A: tee contact, group 1. B: roll and stop, group 2. Each block includes brief reminders, attempts/feedback, stopped retrieval, and a final 30-second secure/count | Hit: “Look at the ball.” Larger soft ball / broad target. Field: “Body behind it.” Slower / slight side roll |
-| 18–21 | Water, bat parked, supervised group swap | Water also available whenever needed |
-| 21–29 | Same adults; groups switch. First 30 seconds: re-show cue/positions; final 30 seconds: secure/count; all collection stays inside this block | Repeat cue; change only one difficulty |
-| 29–32 | Water and pack bats/balls; both supervise | Prepare clear running lane |
-| 32–39 | First minute: A walks route; B checks waiting area. Then one runner at a time through first; A starts, B guides separate walk-back route. Final 30 seconds: close lane | “Run through.” Walk first / react to “go” |
-| 39–42 | Final fun game — Baseball Statues: bats/balls secured; A calls “ready,” “freeze,” or “point to first”; children pose in personal spaces. B supports; children may suggest a silly safe statue | Demonstrate each call / let children choose a call. Seated poses welcome; no elimination |
-| 42–45 | One-minute optional recap, one-minute specific appreciation/optional cheer, final minute begins guardian handoff. Remaining field gear waits until coverage permits collection | Speaking/cheering is optional |
+**Job:** rolling with four children; later A mirrors this in the cleared second sector. Keep waiting children beside/outside the lane in view; one ball. **Show/cue:** demonstrate stop-and-roll-back; “Body behind it” gives a place to move toward. **Watch/retry:** is the child ready, then behind the roll? Check your feed; demonstrate slower/closer and watch the retry. Offer a gentle side roll when ready. Change child after one cycle; rotate who starts. **Stop:** ball secured before collection; retain group and call A for pain, distress, care or uncertainty. Move only on A's signal after count/readiness checks.
 
-Total: 45 minutes. If an adult leaves, stop and secure equipment; use a permitted whole-group activity only if supervision remains feasible, otherwise end safely. Heat changes depend on current local policy/conditions: shorten or cancel as required, not merely add a water break.
+## Preparation notes — before players
 
-Keep one cue per skill and notice a real action: “You looked before rolling it back.” For a routine time cut, trim earlier repetitions and preserve a short Baseball Statues game and positive wrap-up. A safety stop overrides finishing the game.
+Allow T−15 to T−8 for A's site/lanes and B's gear/water checks; T−8 to T−3 for both station demonstrations, cue/stop teach-back and care fallback; T−3 to T0 for conditions/intake readiness. Early children remain with guardians until accepted. Increase adult preparation time if needed; don't leave children for setup.
 
-## Adult teaching notes and fallback
+**Opportunity decision:** allow about six attempt minutes in each initial station after overhead, and five in the repeated rolling block. At a conservative 25-second roll/return/change, eleven minutes gives roughly six rolling attempts per child, with about 100 seconds between the same child's turn starts within a continuously running visit—not across the whole practice. This is why fielding gets a second block instead of adding another skill. Hitting allows roughly six one-minute two-swing turns shared by four—an introduction with retries, not extensive batting. Estimates include no promise; if actual cycles run longer, simplify the route/tee setup without rushing or hiding missed opportunities.
 
-- **A / contact:** watch whether the batter looks toward the ball before swinging; the cue directs attention to what they are trying to hit. If contact is missed, park the bat, show one slow action, and offer a comfortable tee setup/easier ball before another attempt. Watch the next attempt, not the child's temperament. Keep every waiting child in view. Two swings are a turn format, not a guaranteed quota; fitting gear and collection count in the round.
-- **B / stop a roll:** watch whether the child is ready and moves behind the roll. If not, demonstrate with a slower straight roll, retry closer, and check the movement. Offer a gentle side roll only when manageable. Keep one ball active and the waiting line outside the lane. Ask A for unclear rules, equipment, care, or safety concerns without abandoning the group.
+Illustrative inter-visit gaps: assume attempt windows 10:30–16:30, 21:30–27:30, and 32:30–37:30, 25-second cycles, and the same turn order on return. Children who hit first have about 6–8 minutes between their last first-visit roll and first returning roll; children who field first have about 17–19 minutes. That longer interval includes their supervised hitting visit and transitions, not just idle waiting. Changed order or extra pauses can lengthen either gap; these are planning estimates, not measured rates.
 
-Late player: guardian retains care until a stopped intake, normally 18–21. If the handoff/demo exceeds the pause, use 21–22 for it and reduce that group's attempts. Do not cut needed water or walk the child through live play.
+**A's correction:** watch ball attention and controlled contact. Park the bat, check tee/bat suitability, show one slow swing, invite an easier retry. Never approach an active bat.
 
-If B is absent, open no stations. Only if solo supervision and the care/restroom plan are permitted and feasible, A keeps all eight together: replace 10–18 with sequential roll-and-stop and 21–29 with bat-free target-pointing/ready-position play; keep all other boundaries, water, and final game. Otherwise delay/postpone rather than recruit an uncleared spectator. A late approved B reads the card first; 21–23 can become a stopped whole-group demonstration/teach-back, leaving 23–29 for the alternative activity. Keep the group combined for this session. This briefing replaces activity time, not water. If arrivals or briefing need still more time, shorten attempts within the same blocks or omit the activity; never rush the safety explanation.
+Late intake normally uses 18–21 while equipment is secured; extra explanation replaces 21–22 attempts. A late approved helper reads the card and can teach it back at 21–23 with the whole group stopped, reducing attempts. No independent role before understanding; keep the simpler combined plan if coverage requires it.
 
-In that solo fallback, A also leads all demonstrations and the final game. At 32–39, A must see the waiting group, runner, and walk-back route from one position; if that is not feasible, replace running with whole-group pointing to first and a ready-pose game in personal spaces. No missing adult's role is left unfilled.
-
-After minute 45: supervise until all authorized pickups are complete. Then A and B use **two adult minutes** to collect remaining gear and **three minutes** for one observed success, one difficulty, and one agreed change. Program end is not a supervision cutoff.
+After all authorized pickups, allow two adult minutes for gear and three for a review: useful action, excessive wait, next adjustment. Increase as needed.

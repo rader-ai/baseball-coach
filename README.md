@@ -6,6 +6,8 @@ Bring the players, adults, time, space, and equipment you actually have. Basebal
 
 Start with tee-ball and coach-pitch, usually around ages 5–8. Adapt upward by readiness and experience, with a fresh plan and current division rules for older groups. Beginners need somewhere comfortable to start, not a performance standard based on age.
 
+**First try:** open this repository folder in an agent that can read local files, paste the first prompt under “Try it locally,” and replace the players, adults, minutes, space, and gear with yours. Ask for the short field card first; preparation notes and detachable assistant cards follow separately.
+
 ## Simple basics. Supportive coaching. A fun finish.
 
 Show one action, give one clear cue, watch an attempt, and adjust the task. Notice real effort or teamwork. Every planned practice finishes active play with a simple fun game, followed by a short recap, optional cheer or wave, and supervised pickup. Safety can stop the session at any point.
@@ -27,7 +29,7 @@ Use the editable [assistant card](skills/baseball-coach/assets/assistant-card.md
 
 ## Start with a real plan
 
-The [45-minute tee-ball practice](skills/baseball-coach/examples/45-minute-tee-ball-practice.md) includes demonstrations, retrieval, transitions, water, and its final game. Separately, it allows 15 adult minutes beforehand and five adult minutes for teardown/review **after all pickups**. Pickup time varies; preparation and cleanup allowances may need increasing. “45 minutes” does not mean 45 minutes of drills.
+The [45-minute tee-ball practice](skills/baseball-coach/examples/45-minute-tee-ball-practice.md) leads with a compact field card covering demonstrations, retrieval, transitions, water, and its final game. Preparation notes check actual chances per child, not just the clock. Separately, it allows 15 adult minutes beforehand and five adult minutes for teardown/review **after all pickups**. Pickup time varies; preparation and cleanup allowances may need increasing. “45 minutes” does not mean 45 minutes of drills.
 
 Other ready-to-edit starting points:
 
@@ -38,7 +40,7 @@ Other ready-to-edit starting points:
 
 Ask a compatible agent to read [the skill](skills/baseball-coach/SKILL.md), then try:
 
-> Use the Baseball Coach skill at `skills/baseball-coach/SKILL.md`. Plan 45 minutes for eight beginners and two approved adults, with one tee, suitable protective equipment, and limited field space. Include setup and assistant cards.
+> Use the Baseball Coach skill at `skills/baseball-coach/SKILL.md`. Plan 45 minutes for eight beginners and two approved adults, with one tee, suitable protective equipment, and limited field space. Give me a short field card first, then preparation notes and detachable assistant cards. Check whether each child gets enough chances for the goal.
 
 > Help my assistant support a nervous newcomer. Give us one demonstration, one cue, and an easier choice without pressuring the child.
 

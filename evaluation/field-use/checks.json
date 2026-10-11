@@ -1,0 +1,640 @@
+{
+  "word_count_method": "Whitespace split, including headings and table syntax. Lead section ends before next separate section.",
+  "snapshots": {
+    "initial_revision": {
+      "skill_files": {
+        "skills/baseball-coach/SKILL.md": "a95f2f314cf94eb7d0096b27c7a7ea43b22463fbe9cafac80bd83af5b69172b8",
+        "skills/baseball-coach/agents/openai.yaml": "cf6f68f710f27becd192611c5309afb0f05bb8de6c4f9827a3193524c3e7dc65",
+        "skills/baseball-coach/assets/assistant-card.md": "0e9da581b285b36a5ad6c4d6a8a8d0899a2de4ec8235a0e19c950b0c7c29d435",
+        "skills/baseball-coach/assets/ceremony-template.md": "4638ce9c3cb89a01c567c0713bd886f9e038cdd8d607f6371590828b3d18afdc",
+        "skills/baseball-coach/assets/first-practice-checklist.md": "0d582b2426306981d5038e9ebbf2ef680c3fa97c26aff19adade6e1472559335",
+        "skills/baseball-coach/assets/game-card.md": "c02fdb377f7c70ad6ba20650f69cb9b063424a91326b079095d3b0316c04e079",
+        "skills/baseball-coach/assets/parent-messages.md": "a08cca6f282b60ad3c63be87f344fe1db44653a41c4f0af2ab9c2e072fe555c2",
+        "skills/baseball-coach/assets/practice-template.md": "28b5fa7108bc1fd61f5597f90c118bbdb677fcad13d429c112de5c010c782aa7",
+        "skills/baseball-coach/examples/45-minute-tee-ball-practice.md": "92da0955811def52660050844714fa8ca443b8457e8303052457c459ba6b57a4",
+        "skills/baseball-coach/examples/60-minute-coach-pitch-practice.md": "3dd33b5831365ac224b385d0e308722fb944fbacd585537ed48ad604f0d11aea",
+        "skills/baseball-coach/examples/coach-pitch-game-card.md": "cc65d33011b8a744472c55ee4a1f600a2bcdcfcc2703524372ddde35b4f7d1c6",
+        "skills/baseball-coach/examples/coaching-wisdom-in-action.md": "f0c4e1d936b5145d3ba644eff219d571f8a47388309caa76f8c858a077ca2ba4",
+        "skills/baseball-coach/examples/end-season-awards.md": "7436878a68edac5b2782bceb4e136735ae2861976d30845116b34a22ba5fcd2e",
+        "skills/baseball-coach/examples/five-year-old-tee-ball-practice.md": "f767fe64569d548da76e678f630eef4b5c7cc7ff5bcf481402af2a98f44302a3",
+        "skills/baseball-coach/examples/parent-welcome-email.md": "594c94bcb996adf6e3e1e5789d26d3df2b258137349dd8ac971e818eaf486d30",
+        "skills/baseball-coach/references/ceremonies.md": "0f903bfe5da234b44cf480c9233a136cc00889d5a517108df2d9a56eb91ed257",
+        "skills/baseball-coach/references/coaching-wisdom.md": "34223d376f984912db577d59a1171aba7e356f8289a936b59d31926d6150883c",
+        "skills/baseball-coach/references/game-day.md": "eb346aad5f5412b8ce727529cdb7c22225b5288cd50ba318cd20d46dc631d238",
+        "skills/baseball-coach/references/parent-communication.md": "25c7352a34fb773b35a93ec44d4d3e0f2a27b1d367b55f6e5862bb3ac6de3286",
+        "skills/baseball-coach/references/practice-operations.md": "706bfc4bece8eb5680d6879aaaf48201a0924e480747271eb8c9b30f89743a95",
+        "skills/baseball-coach/references/practices.md": "401b067b39d6702433ca47d668f9504fcb772054cd36a3dd105b886c16dd5fc3",
+        "skills/baseball-coach/references/rules-safety-sources.md": "b89c5db40a372b67984775692d2bf34dd0de331dae85a887a1f56b1e1c36e885",
+        "skills/baseball-coach/references/teaching-and-support.md": "edb3e61d2acf0b9e0001a0dff0ba3034f68587716391d8b788d6e1519618d004",
+        "skills/baseball-coach/references/technical-progressions.md": "086771fe01e3e18f43ef802eb84ae874cee7f67f79e504bdeb8e111512f1413a"
+      }
+    },
+    "final_clarification": {
+      "skill_files": {
+        "skills/baseball-coach/SKILL.md": "baca76cfb60b03028ed207e96d26b5a6cd3f35a91dc0076256841a7f1b355653",
+        "skills/baseball-coach/agents/openai.yaml": "cf6f68f710f27becd192611c5309afb0f05bb8de6c4f9827a3193524c3e7dc65",
+        "skills/baseball-coach/assets/assistant-card.md": "0e9da581b285b36a5ad6c4d6a8a8d0899a2de4ec8235a0e19c950b0c7c29d435",
+        "skills/baseball-coach/assets/ceremony-template.md": "4638ce9c3cb89a01c567c0713bd886f9e038cdd8d607f6371590828b3d18afdc",
+        "skills/baseball-coach/assets/first-practice-checklist.md": "0d582b2426306981d5038e9ebbf2ef680c3fa97c26aff19adade6e1472559335",
+        "skills/baseball-coach/assets/game-card.md": "c02fdb377f7c70ad6ba20650f69cb9b063424a91326b079095d3b0316c04e079",
+        "skills/baseball-coach/assets/parent-messages.md": "a08cca6f282b60ad3c63be87f344fe1db44653a41c4f0af2ab9c2e072fe555c2",
+        "skills/baseball-coach/assets/practice-template.md": "fe4765090a881269c8d0bfb7b5d7f09755f8af023ef4ae776437b6add244155b",
+        "skills/baseball-coach/examples/45-minute-tee-ball-practice.md": "5a75d8538a0ab6cc567afb3275f87c30797096e6a2ca37fd50fd789563cc2d45",
+        "skills/baseball-coach/examples/60-minute-coach-pitch-practice.md": "2f8f5c939253cd529f5ad30bbc0f3005f0372792cd762a14f936f1f895a32b82",
+        "skills/baseball-coach/examples/coach-pitch-game-card.md": "cc65d33011b8a744472c55ee4a1f600a2bcdcfcc2703524372ddde35b4f7d1c6",
+        "skills/baseball-coach/examples/coaching-wisdom-in-action.md": "f0c4e1d936b5145d3ba644eff219d571f8a47388309caa76f8c858a077ca2ba4",
+        "skills/baseball-coach/examples/end-season-awards.md": "7436878a68edac5b2782bceb4e136735ae2861976d30845116b34a22ba5fcd2e",
+        "skills/baseball-coach/examples/five-year-old-tee-ball-practice.md": "297045659637139c07697cabcb3bea5c6430390b1ccf3e7cadb864bc1db79629",
+        "skills/baseball-coach/examples/parent-welcome-email.md": "594c94bcb996adf6e3e1e5789d26d3df2b258137349dd8ac971e818eaf486d30",
+        "skills/baseball-coach/references/ceremonies.md": "0f903bfe5da234b44cf480c9233a136cc00889d5a517108df2d9a56eb91ed257",
+        "skills/baseball-coach/references/coaching-wisdom.md": "34223d376f984912db577d59a1171aba7e356f8289a936b59d31926d6150883c",
+        "skills/baseball-coach/references/game-day.md": "eb346aad5f5412b8ce727529cdb7c22225b5288cd50ba318cd20d46dc631d238",
+        "skills/baseball-coach/references/parent-communication.md": "25c7352a34fb773b35a93ec44d4d3e0f2a27b1d367b55f6e5862bb3ac6de3286",
+        "skills/baseball-coach/references/practice-operations.md": "8a692cb4564b382933fe11a87421d68ab9ab25785c8687dc676fa1d32e8c636e",
+        "skills/baseball-coach/references/practices.md": "401b067b39d6702433ca47d668f9504fcb772054cd36a3dd105b886c16dd5fc3",
+        "skills/baseball-coach/references/rules-safety-sources.md": "b89c5db40a372b67984775692d2bf34dd0de331dae85a887a1f56b1e1c36e885",
+        "skills/baseball-coach/references/teaching-and-support.md": "edb3e61d2acf0b9e0001a0dff0ba3034f68587716391d8b788d6e1519618d004",
+        "skills/baseball-coach/references/technical-progressions.md": "086771fe01e3e18f43ef802eb84ae874cee7f67f79e504bdeb8e111512f1413a"
+      }
+    }
+  },
+  "fresh_outputs": {
+    "01-first-practice.md": {
+      "sha256": "c06547da7bc60cdabdf43fb762bcf9627a1e53df770ab17237bbbfc012f38f22",
+      "full_words": 1143,
+      "lead_card_words": 513,
+      "clock_spans": [
+        [
+          0,
+          3
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          15,
+          18
+        ],
+        [
+          18,
+          30
+        ],
+        [
+          30,
+          32
+        ],
+        [
+          32,
+          36
+        ],
+        [
+          36,
+          38
+        ]
+      ],
+      "clock_minutes": 38
+    },
+    "02-live-disruption.md": {
+      "sha256": "af6f5bb18b253d5982717e16db619a4d3e56de5eb5797f74a2a1fce195c1d111",
+      "full_words": 311,
+      "lead_card_words": 311,
+      "clock_spans": [
+        [
+          21,
+          24
+        ],
+        [
+          24,
+          32
+        ],
+        [
+          32,
+          34
+        ],
+        [
+          34,
+          41
+        ],
+        [
+          41,
+          46
+        ],
+        [
+          46,
+          48
+        ]
+      ],
+      "clock_minutes": 27
+    },
+    "03-mixed-experience.md": {
+      "sha256": "a0d34509e87b53e0b0bd715c3800f0ffb23be958ec4e7768a3518cdda6e6cf65",
+      "full_words": 1693,
+      "lead_card_words": 561,
+      "clock_spans": [
+        [
+          0,
+          4
+        ],
+        [
+          4,
+          8
+        ],
+        [
+          8,
+          43
+        ],
+        [
+          43,
+          45
+        ],
+        [
+          45,
+          48
+        ],
+        [
+          48,
+          50
+        ]
+      ],
+      "subrounds": [
+        [
+          8,
+          15
+        ],
+        [
+          15,
+          22
+        ],
+        [
+          22,
+          29
+        ],
+        [
+          29,
+          36
+        ],
+        [
+          36,
+          43
+        ]
+      ],
+      "clock_minutes": 50,
+      "finding": "Fallback100-second within-lane cadence does not describe gaps between actual ball visits; original preserved."
+    },
+    "04-one-lane-participation.md": {
+      "sha256": "fd07f79078d129dde64810961f04efb8dd1a1950437af282fc52494a7ea4fbc7",
+      "full_words": 1330,
+      "lead_card_words": 578,
+      "clock_spans": [
+        [
+          0,
+          2
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          7,
+          8
+        ],
+        [
+          8,
+          13
+        ],
+        [
+          13,
+          15
+        ],
+        [
+          15,
+          20
+        ],
+        [
+          20,
+          21
+        ],
+        [
+          21,
+          26
+        ],
+        [
+          26,
+          27
+        ],
+        [
+          27,
+          32
+        ],
+        [
+          32,
+          33
+        ],
+        [
+          33,
+          38
+        ],
+        [
+          38,
+          40
+        ],
+        [
+          40,
+          42
+        ]
+      ],
+      "clock_minutes": 42,
+      "participation_model": {
+        "assumptions": "30-second demo;35-second field cycle;75-second two-swing tee turn with swings15/35seconds into turn;same order at repeated visit;unobserved planning estimates.",
+        "groups": {
+          "A": [
+            {
+              "turn_position": 1,
+              "field_attempt_starts_seconds": [
+                150,
+                255,
+                1290,
+                1395
+              ],
+              "tee_swing_starts_seconds": [
+                945,
+                965,
+                2025,
+                2045
+              ],
+              "field_intervisit_gap_seconds": 1035,
+              "tee_intervisit_gap_seconds": 1060,
+              "max_any_ball_attempt_gap_seconds": 690
+            },
+            {
+              "turn_position": 2,
+              "field_attempt_starts_seconds": [
+                185,
+                290,
+                1325,
+                1430
+              ],
+              "tee_swing_starts_seconds": [
+                1020,
+                1040,
+                2100,
+                2120
+              ],
+              "field_intervisit_gap_seconds": 1035,
+              "tee_intervisit_gap_seconds": 1060,
+              "max_any_ball_attempt_gap_seconds": 730
+            },
+            {
+              "turn_position": 3,
+              "field_attempt_starts_seconds": [
+                220,
+                325,
+                1360,
+                1465
+              ],
+              "tee_swing_starts_seconds": [
+                1095,
+                1115,
+                2175,
+                2195
+              ],
+              "field_intervisit_gap_seconds": 1035,
+              "tee_intervisit_gap_seconds": 1060,
+              "max_any_ball_attempt_gap_seconds": 770
+            }
+          ],
+          "B": [
+            {
+              "turn_position": 1,
+              "field_attempt_starts_seconds": [
+                510,
+                615,
+                1650,
+                1755
+              ],
+              "tee_swing_starts_seconds": [
+                165,
+                185,
+                1305,
+                1325
+              ],
+              "field_intervisit_gap_seconds": 1035,
+              "tee_intervisit_gap_seconds": 1120,
+              "max_any_ball_attempt_gap_seconds": 690
+            },
+            {
+              "turn_position": 2,
+              "field_attempt_starts_seconds": [
+                545,
+                650,
+                1685,
+                1790
+              ],
+              "tee_swing_starts_seconds": [
+                240,
+                260,
+                1380,
+                1400
+              ],
+              "field_intervisit_gap_seconds": 1035,
+              "tee_intervisit_gap_seconds": 1120,
+              "max_any_ball_attempt_gap_seconds": 730
+            },
+            {
+              "turn_position": 3,
+              "field_attempt_starts_seconds": [
+                580,
+                685,
+                1720,
+                1825
+              ],
+              "tee_swing_starts_seconds": [
+                315,
+                335,
+                1455,
+                1475
+              ],
+              "field_intervisit_gap_seconds": 1035,
+              "tee_intervisit_gap_seconds": 1120,
+              "max_any_ball_attempt_gap_seconds": 770
+            }
+          ],
+          "C": [
+            {
+              "turn_position": 1,
+              "field_attempt_starts_seconds": [
+                930,
+                1035,
+                2010,
+                2115
+              ],
+              "tee_swing_starts_seconds": [
+                525,
+                545,
+                1665,
+                1685
+              ],
+              "field_intervisit_gap_seconds": 975,
+              "tee_intervisit_gap_seconds": 1120,
+              "max_any_ball_attempt_gap_seconds": 630
+            },
+            {
+              "turn_position": 2,
+              "field_attempt_starts_seconds": [
+                965,
+                1070,
+                2045,
+                2150
+              ],
+              "tee_swing_starts_seconds": [
+                600,
+                620,
+                1740,
+                1760
+              ],
+              "field_intervisit_gap_seconds": 975,
+              "tee_intervisit_gap_seconds": 1120,
+              "max_any_ball_attempt_gap_seconds": 670
+            },
+            {
+              "turn_position": 3,
+              "field_attempt_starts_seconds": [
+                1000,
+                1105,
+                2080,
+                2185
+              ],
+              "tee_swing_starts_seconds": [
+                675,
+                695,
+                1815,
+                1835
+              ],
+              "field_intervisit_gap_seconds": 975,
+              "tee_intervisit_gap_seconds": 1120,
+              "max_any_ball_attempt_gap_seconds": 710
+            }
+          ]
+        }
+      }
+    }
+  },
+  "supplied_examples": {
+    "five-year-old-tee-ball-practice.md": {
+      "full_example_words": 678,
+      "clock": [
+        [
+          "0",
+          "4"
+        ],
+        [
+          "4",
+          "6"
+        ],
+        [
+          "6",
+          "14"
+        ],
+        [
+          "14",
+          "17"
+        ],
+        [
+          "17",
+          "23"
+        ],
+        [
+          "23",
+          "25"
+        ],
+        [
+          "25",
+          "29"
+        ],
+        [
+          "29",
+          "32"
+        ]
+      ],
+      "field_card_body_words": 398,
+      "lead_section_words_including_headings": 410
+    },
+    "45-minute-tee-ball-practice.md": {
+      "full_example_words": 884,
+      "clock": [
+        [
+          "0",
+          "4"
+        ],
+        [
+          "4",
+          "8"
+        ],
+        [
+          "8",
+          "10"
+        ],
+        [
+          "10",
+          "18"
+        ],
+        [
+          "18",
+          "21"
+        ],
+        [
+          "21",
+          "29"
+        ],
+        [
+          "29",
+          "32"
+        ],
+        [
+          "32",
+          "39"
+        ],
+        [
+          "39",
+          "42"
+        ],
+        [
+          "42",
+          "45"
+        ]
+      ],
+      "field_card_body_words": 449,
+      "lead_section_words_including_headings": 457
+    },
+    "60-minute-coach-pitch-practice.md": {
+      "full_example_words": 918,
+      "clock": [
+        [
+          "0",
+          "5"
+        ],
+        [
+          "5",
+          "10"
+        ],
+        [
+          "10",
+          "13"
+        ],
+        [
+          "13",
+          "24"
+        ],
+        [
+          "24",
+          "28"
+        ],
+        [
+          "28",
+          "39"
+        ],
+        [
+          "39",
+          "43"
+        ],
+        [
+          "43",
+          "53"
+        ],
+        [
+          "53",
+          "57"
+        ],
+        [
+          "57",
+          "60"
+        ]
+      ],
+      "field_card_body_words": 453,
+      "lead_section_words_including_headings": 460
+    }
+  },
+  "sample_participation_model": {
+    "45-minute": {
+      "assumptions": "Same round-robin order; complete cycles only within the examples' stated illustrative attempt windows; extra pauses/order changes can extend gaps.",
+      "within_visit_start_interval_seconds": 100,
+      "groups": [
+        {
+          "first_window_start_min": 10.5,
+          "return_window_start_min": 32.5,
+          "inter_visit_gaps_seconds": [
+            1020.0,
+            1020.0,
+            1120.0,
+            1120.0
+          ],
+          "attempts_by_child": [
+            7,
+            7,
+            6,
+            6
+          ]
+        },
+        {
+          "first_window_start_min": 21.5,
+          "return_window_start_min": 32.5,
+          "inter_visit_gaps_seconds": [
+            360.0,
+            360.0,
+            460.0,
+            460.0
+          ],
+          "attempts_by_child": [
+            7,
+            7,
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    "60-minute": {
+      "assumptions": "Same round-robin order; complete cycles only within the examples' stated illustrative attempt windows; extra pauses/order changes can extend gaps.",
+      "within_visit_start_interval_seconds": 150,
+      "groups": [
+        {
+          "first_window_start_min": 14.0,
+          "return_window_start_min": 44.0,
+          "inter_visit_gaps_seconds": [
+            1350,
+            1500,
+            1500,
+            1500,
+            1500
+          ],
+          "attempts_by_child": [
+            7,
+            6,
+            6,
+            6,
+            5
+          ]
+        },
+        {
+          "first_window_start_min": 29.0,
+          "return_window_start_min": 44.0,
+          "inter_visit_gaps_seconds": [
+            450,
+            600,
+            600,
+            600,
+            600
+          ],
+          "attempts_by_child": [
+            7,
+            6,
+            6,
+            6,
+            5
+          ]
+        }
+      ]
+    }
+  }
+}

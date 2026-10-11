@@ -2,6 +2,12 @@
 
 Use this reference when delivering a complete practice or briefing helpers. These are adjustable operating suggestions, not league staffing rules or an evidence-based ideal duration. Use [practices](practices.md) for activities and [rules/safety](rules-safety-sources.md) for applicable safeguards.
 
+## Put the field card first
+
+Make the first section runnable: essential conditions, adult/child places, playable directions and cue, clock, final game, and immediate stop/fallback. Target about 350–550 words for an ordinary plan, followed by compact detachable assistant cards when needed. Separate adult preparation and calculations below; don't place essential protective equipment, supervision, or stop conditions only in those notes. Avoid duplicating the same directions in a table, narrative, and card.
+
+For a live disruption, give immediate actions and the remaining clock first, usually about 150–300 words. Use the current elapsed minute, including inspection, movement, and helper briefing. State the decision that would end play. Add only relevant detail; a coach beside waiting children does not need the entire contingency catalog. These length targets serve usability, not a safety cutoff.
+
 ## Before, during, and after player time
 
 Show adult preparation separately from the player program. For example, **12 minutes before player minute 0**: five minutes of setup, four of assistant briefing, three of final checks. Name the adults and jobs. State when supervision transfers from guardians; early arrivals remain with their guardians until the coach accepts the handoff. Do not start accepting children and then leave them to finish setup. If children are already in your care, maintain permitted coverage, simplify the plan, or postpone setup/play.
@@ -33,11 +39,27 @@ If help is needed, give one correction with a demonstration, offer an easier ret
 
 At the end of a block: call stop, secure bats/balls, count children, collect only when the lane is closed, then move groups on the head coach's signal. Reset positions before restarting. Include collection within activity time and group swaps within transition time; do not borrow from water or assume children instantly move.
 
-Check whether intended turns fit: subtract demonstration, rest, reset, and collection from the block before estimating repetitions. Helmet fitting and bat control take time. Treat estimates as planning limits, not quotas; rotate who goes first and record who needs an opportunity next time instead of rushing the final child.
+Check opportunities before approving the schedule, as described below. Helmet fitting and bat control take time. Rotate who goes first; recording missed turns is a response to actual disruption, not a justification for a predictably insufficient design.
 
 For a late player, the guardian keeps supervision until the next planned intake opportunity. At that pause, stop the relevant activity, accept the handoff, and give the same boundaries/stop demonstration. Budget that instruction inside the existing block; remove repetitions, not supervision. Do not send the child through a live station.
 
 For a late assistant, do not open an unstaffed station. Use a preplanned, permitted whole-group alternative or delay/postpone. An arriving approved helper reads the card before taking a role. At a scheduled stop, keep the group visible with equipment secured and budget a brief teach-back before assigning responsibility. If this takes longer, explicitly shorten the next activity; retain needed water and safe transitions. If coverage or comprehension remains inadequate, keep the simpler plan or end safely.
+
+## Check whether children get enough chances for the goal
+
+Subtract demos, water, equipment changes, stopped collection, transitions, and a reasonable interruption margin. Estimate a conservative **complete cycle**: child ready → action → safe return/retrieval → reset/change. Divide usable seconds by cycle seconds and group size for approximate attempts per child. For one continuously operating serial lane, group size × cycle estimates time between the same child's turn starts **within that visit**, only if repeat turns fit; additional stoppages increase it. Use the slower reasonable cycle, not best-case pace. Show a short result, not a spreadsheet, and decide: do these opportunities support the actual goal, readiness, and requested activity level? There is no universal minimum, but a few tries spread across most of an hour must not be presented as ample repeated practice.
+
+Audit the **full rotation** before reporting overall attempt spacing: trace a representative child from each different assignment through visits, swaps, breaks, and other activities. Distinguish idle waiting from supervised ball-free or other-skill activity; these are different experiences, but neither counts as an attempt at the target skill. Estimate the likely and longest reasonable gaps between target-skill attempts using actual clock positions, including a missed round or alternation where scheduled. Account for turn order and slower cycles; report a range or uncertainty when exact positions are unknown. Recheck each fallback separately. Keep the published summary short, but don't present the within-lane cadence as the whole-session cadence. A short visit that gives most children one attempt has no recurring in-visit interval for those children; the next attempt occurs on a later visit, after its intervening activities and transitions.
+
+If not, change the design before delivering it:
+
+- Inspect whether the actual space, errant-ball paths, waiting places, equipment, and approved adults permit additional **independent adult-led lanes**. Two named areas do not prove two lanes fit inside one. Each lane needs its own adult; no child becomes an unplanned catcher or feeder. Support/care duties may make that adult unavailable.
+- If lanes do not fit, simplify an unnecessarily long feed/throw/return route, reduce group size through a different rotation, give the target skill a second block, or narrow the goals openly. Two adults may genuinely be needed for one route; don't remove the receiver just to improve the arithmetic. A straight return-to-adult exercise rehearses part of fielding to first, not every game decision.
+- Waiting children can do supervised ball-free movement only when personal spaces and attention permit. Watching or pointing is not equivalent to ball-handling attempts. Never solve a queue with independent bat/throw activity.
+
+Example planning comparison: eight usable minutes, a 40-second cycle, and six children yield about two tries each with four minutes between the same child's turn starts. If repeated fielding and an easier retry are the goal, redesign. Two genuinely separate adult-led lanes of three with a simpler 25-second full cycle would permit about six tries each and 75 seconds between a child's turn starts before extra interruptions; both the geometry and cycle assumption need checking. If those lanes cannot fit, use one simpler route and allocate another block, or state the reduced goal. No estimate is a quota or a reason to hurry.
+
+For a final serial game, budget every child's chosen turn at the slower cycle **plus** demo, closure, and margin. If this doesn't fit, change the game to simultaneous ball-free play in safe personal spaces or reduce its mechanics. Don't plan to leave the last children out and call it a complete team round. After briefing, observe the first cycle; if it is slower than planned, simplify early.
 
 ## Close the loop
 

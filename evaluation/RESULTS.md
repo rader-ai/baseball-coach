@@ -7,7 +7,7 @@ The specified GitHub repository was obtained as a fresh shallow checkout after t
 ## Structural and content review
 
 - The available skill-creator `quick_validate.py` passed. Codex UI metadata parsed as YAML; its short-description length and explicit `$baseball-coach` prompt were checked.
-- The canonical skill contains 24 text files: a 63-line entrypoint, UI metadata, nine references, six editable assets, and seven examples. Portable relative links are checked by the package validator.
+- The canonical skill contains 24 text files: a 68-line entrypoint, UI metadata, nine references, six editable assets, and seven examples. Portable relative links are checked by the package validator.
 - Four sample schedules have continuous, nonoverlapping elapsed-time rows and correct totals: 32, 45, 60, and 15 minutes. This is arithmetic evidence, not a guarantee that a real group will move at that pace.
 - Templates were manually reviewed for editable logistics, adult assignments, local-rule uncertainty, and actionable outputs. Intentional bracket fields are fill-in prompts, not unfinished implementation scaffolding.
 - New distributable text was reviewed for fictional labels/placeholders, private data, unsupported affiliation, claims of guaranteed improvement, and copied curricula. No real roster, child contact, photo, credential, or private league record is included. Automated marker checks are narrow and do not guarantee anonymity.
@@ -79,10 +79,18 @@ The second evaluator found that accessible Little League Runner FAQ text did not
 
 These six additional outputs bring the review history to **21 written scenario outputs across successive revisions**, not 21 fresh runs of the final snapshot. The four new main practice clocks (45, 50, 75, 30) and three prose fallback clocks (40, 40, 45) were independently checked for continuity and exact totals. The reviewer inspected staffing, gear, waiting places, correction cards, safeguards, and source limits in all six outputs. This establishes written-plan behavior for these cases, not field capacity or empirical learning effects.
 
-Final validation covers 59 allowlisted text files, portable local links, the four supplied sample clocks, the 63-line entrypoint, UI metadata, and four packaging-boundary tests. The release archive is extracted and checked separately before delivery. Repository source uses an explicit staged inventory; archives, local helper state, and private working notes stay out of Git.
+At the practice-depth checkpoint, validation covered 59 allowlisted text files, portable local links, the four supplied sample clocks, the 63-line entrypoint, UI metadata, and four packaging-boundary tests. The release archive is extracted and checked separately before delivery. Repository source uses an explicit staged inventory; archives, local helper state, and private working notes stay out of Git.
+
+## Field cards and realistic participation
+
+A later independent practical review of committed source found two moderate weaknesses: long unseparated answers for a first-time parent/live disruption, and too few fielding opportunities in a mixed-experience plan despite available adults. Its six answers were generated and audited by the same separate assistant task; this was not blinded or human field testing. Three original baseline answers are preserved with the follow-up evidence.
+
+The revision puts a short usable field card first, separates assistant/preparation notes, and makes participation adequacy a design decision. It requires conservative full-cycle estimates, actual lane/coverage checks, and a fully budgeted final game. The three worked practice cards are 410/457/460 words including headings, with preparation detail below. Fourteen existing parent, game, ceremony, wisdom, teaching, technical and safety resources remain byte-identical to the committed baseline.
+
+Fresh generation, its retained cadence failure, the narrow correction and targeted follow-up are documented in [field-use review](FIELD-USE-REVIEW.md). The report provides original answers, prompts, word counts, timing and participation math, plus snapshot hashes. It distinguishes within-visit turn intervals from gaps across the complete rotation. These are planning estimates rather than observed field rates; a short lead card is not a verified single printed page.
 
 ## Limits and release decisions
 
-These are agent scenario tests and a local content review. No field trial, coach credential review, child participation study, calibrated measurement, medical/legal review, or host installation was performed. Current rules and local conditions remain the adult's verification responsibility; the linked safety sources are not an eligibility engine.
+These are agent scenario tests and a local content review. No field trial, coach credential review, child participation study, calibrated measurement, or medical/legal review was performed. Temporary isolated host probes did not establish skill loading; see [host verification limits](HOST-VALIDATION.md). No global installation or live host-model inference was performed. Current rules and local conditions remain the adult's verification responsibility; the linked safety sources are not an eligibility engine.
 
 The archive is suitable for review. An owner-selected license, target-host installation tests, experienced-coach review, source maintenance decisions, and applicable publisher/submission steps remain release gates. Commercial terms and any paid distribution remain undecided. The owner authorized publishing the reviewed repository source to its existing GitHub remote; that does not grant an open-source license or approve marketplace submission. No PR, global install, marketplace enrollment, separate website publication, or outreach was performed. Git history and the delivery report record the commit/push outcome.

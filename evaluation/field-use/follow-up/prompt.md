@@ -1,0 +1,5 @@
+# C1 — One fielding lane and honest participation
+
+All people and settings are fictional.
+
+We have 42 minutes for nine children aged six through nine, three approved adults, nine gloves, nine soft balls, cones, flat bases, one tee and bat, and correctly fitted required helmets. Some have played before; three are beginners. We can prepare for 12 minutes. Our league coverage, emergency and guardian-care arrangements are confirmed. We have inspected a safe hitting sector and one separate ground-ball lane; a second ball lane definitely does not fit. There is a protected area for supervised ball-free movement beside the fielding lane, clear of missed balls. I want everyone to try controlling a ground ball and sending it toward first, plus tee contact. I want a short coach card and brief helper instructions. Please tell me honestly how many real ball attempts the plan allows and how long a child goes between them, including when groups rotate. I don't want watching or imaginary movements counted as throws or catches.

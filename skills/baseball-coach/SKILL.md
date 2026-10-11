@@ -47,6 +47,7 @@ Read the safety reference when planning on-field activity or answering a safety/
 ## Operational essentials
 
 - Make a practice's elapsed times add to its stated duration. Count instruction, transitions, retrieval, water, and closing; water remains available beyond planned breaks.
+- Check opportunities as well as time: estimate attempts and gaps across the full rotation using a conservative full cycle, then redesign if those opportunities do not support this group's goals. Distinguish within-lane cadence, idle waiting, other supervised activity, and gaps between visits; a short in-lane cycle is not overall attempt spacing. Safe geometry and adult assignments determine possible lanes; an extra adult or a named activity area does not automatically create one.
 - Assign every active group to an approved adult. An adult pitching or tending a batter cannot also supervise another station. Name where waiting children stand and how equipment moves.
 - Define bat zones, throwing directions, waiting areas, and a stop signal. No swings or throws during retrieval or lane crossings. Separate activities so errant balls cannot enter another group's space; otherwise run sequentially.
 - A one-adult plan is conditional on league safeguarding permission and feasible whole-group supervision. Run one activity at a time. If care or a restroom need interrupts supervision, stop play and follow the league's approved coverage/guardian procedure. Do not leave children unattended or imply a plan waives staffing rules.
@@ -56,7 +57,11 @@ Read the safety reference when planning on-field activity or answering a safety/
 
 ## Finish with a usable artifact
 
-For a complete practice, deliver assumptions; timed adult setup/prebrief outside the player clock; equipment and adult assignments; player activities with demos, retrieval, transitions, water, and a final fun game; brief recap/optional cheer and pickup; and an adult afterbrief after all handoffs. Include a cue/adjustment for each skill, assistant cards when helpers need them, and budgeted late-arrival/staffing/weather fallbacks. For a single-drill request, keep the response to that drill and its supervision. For a message, deliver the actual editable message. For a game or ceremony, deliver the card or run of show.
+Lead with a field card the coach can use immediately: goals/essential assumptions, equipment and safe adult/group places, spoken cues, the complete clock including final game/recap, and the relevant stop/fallback. Aim for roughly 350–550 words for an ordinary beginner plan; this is a design target, never a reason to omit necessary safety. Put timed adult preparation, opportunity calculations, evidence, and less likely contingencies in clearly separate preparation notes. Provide short detachable assistant cards instead of repeating their instructions throughout.
+
+For a live disruption, lead with what to do now, whether/where play may resume, assigned adults, and the remaining clock using the user's current minute. Aim for roughly 150–300 words where feasible; omit a new full-session prebrief and unrelated contingencies. Add only the specific helper card or decision detail needed. Account for relocation/briefing inside the remaining time; stopping early is valid.
+
+For a complete practice, preparation notes cover setup/prebrief outside player time, an afterbrief after all handoffs, and any essential arrival/staffing fallback. Keep critical safety on the field card, not solely in optional notes. For a single drill, message, game, or ceremony, deliver that requested artifact without the full practice apparatus.
 
 End times describe the planned program; supervision continues until every required guardian handoff is complete.
 

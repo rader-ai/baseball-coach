@@ -1,28 +1,13 @@
-# Approved assistant's activity card
+# Detachable approved-assistant card
 
-Activity: [ ]. Adult/cue-giver: [ ]. Group: [anonymous labels/count].
-Player-clock block: [start–end, including demo, attempts, collection]. Purpose: [one action children will try].
+Fill only the relevant fields; aim for about 100–180 words when practical. Essential positions, equipment, and stop instructions stay on the card. This is an editing target, not a safety limit.
 
-**Before opening:** [head coach] confirms league clearance, coverage, and this card's walkthrough/teach-back. Equipment: [including protective gear]. Adult stands [safe spot with group in view]; active child stands [ ]; waiting children stay [outside swing/ball paths]. Ball direction [ ]; retrieval route [ ]; water access [ ]. If these cannot coexist safely, stop and ask.
+**Job/time:** [adult], [group/count], [exact block]. Purpose: [one child action].
+**Places/gear:** [adult and active child]; [waiting children in view outside ball/bat paths]; [equipment/protection]; [direction/return route]. One cue-giver: [ ].
+**Show/cue/why:** [brief demo inside block]; “[one cue]” helps direct attention to [concrete task].
+**Watch → help → retry:** [one or two observable actions]; if [difficulty], check [task/setup], demonstrate [one adjustment], offer [easier retry], and watch [what changed]. Harder when ready: [one change]. Notice “[specific action]” only when true.
+**Turns:** [simple whole cycle, order, planned chances/waits]. If slower than planned, [safe simplification or call head coach]; don't speed up feeds or omit the last child.
+**Stop/ask:** [signal]; secure equipment, retain group, call head coach for pain/fatigue, distress, unsafe lane, care need, lost coverage, or uncertainty. No diagnosis or return clearance.
+**Change:** stopped collection → count → move only on [head coach]'s signal → confirm clear/readiness before restart.
 
-**Show and say:** [30–45-second demonstration, inside activity time] + “[one cue].”
-**Why this cue may help:** [modest, concrete rationale: e.g., looking at the target gives the child a place to aim; not a guarantee].
-
-**One or two observable things to watch:** [visible action 1]; [optional visible action 2]. Choosing a small number, explaining the cue, and checking a retry are practical design choices, not a validated ideal number or feedback formula.
-
-| Observe, without labeling | Possible task/setup issue to check | One correction + demonstration | Retry and check |
-|---|---|---|---|
-| [visible action, e.g., throw starts before receiver is ready] | [ready signal may not have been clear] | [park ball; show ready signal] | [wait for signal, retry; did the child wait?] |
-
-Easier: [one change]. Harder, only when ready: [one change].
-Specific encouragement when observed: “[action you noticed].”
-Turns: [start order; rotate who goes first]. Approximate cycle: [setup → attempt → safe return/reset]. Fit turns after subtracting demo, collection, and rest; no promised quota.
-
-**Stop:** anyone may call [signal]; all balls held and bats parked. Stop for pain/fatigue, injury concern, unsafe ball/bat behavior, a child leaving the area, weather concern, or lost supervision. Follow the head coach's emergency/safety procedure; do not diagnose or clear return.
-
-**Ask the head coach:** unclear cue or rule, unsuccessful adjustment, equipment problem, distressed child, care/restroom need, or any situation outside your assignment. Stop the affected activity safely; do not walk away from the group to ask.
-
-**Transition:** [head coach] calls the change. Close the lane → secure equipment → supervised retrieval → count → move → reset. Restart only after clear-lane/readiness confirmation. No independent station swaps.
-
-**Teach-back before children:** point to everyone's places; demonstrate cue; explain stop/retrieval and when you need help.
-**After all pickups:** bring one observation and one suggested adjustment to the three-minute adult afterbrief.
+Before intake, teach back places, cue, and stop/collection. The small observation/cue count is a design choice, not a validated formula. After all pickups, bring one observation to the adult review.
